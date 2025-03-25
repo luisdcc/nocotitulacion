@@ -1,4 +1,4 @@
 .PHONY: build
 
-build:
+_build:
 	docker-compose up --build
